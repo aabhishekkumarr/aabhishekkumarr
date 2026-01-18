@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Abhishek Kumar 👋
 
-<!--
-**aabhishekkumarr/aabhishekkumarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | Business Analytics | SQL • Python • Power BI • Excel  
+🎯 Interested in Business Decision Making & Data-Driven Strategy  
 
-Here are some ideas to get you started:
+### 🔧 Tools & Skills
+- SQL (MySQL, PostgreSQL)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Power BI (DAX, Data Modeling)
+- Excel (Pivot Tables, Power Query)
+- Statistics & Business Metrics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- Revenue Leakage Analysis
+- Customer Retention & Cohort Analysis
+- Sales Performance Dashboard
+
+📫 Reach me: LinkedIn | Email
+
